@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">K22411CASampleProject</string>
+    <string name="remove" />
+    <string name="title_login_username">"User name: "</string>
+    <string name="title_login_username_hint">Enter your username</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_password_hint">Enter your password</string>
+    <string name="title_login_save_infor">Save login infor</string>
+    <string name="title_login_button_login">"Login "</string>
+    <string name="title_confirm_exit_title">Confirm Exit</string>
+    <string name="title_confirm_exit_message">Are you sure you want to exit?</string>
+    <string name="title_confirm_exit_ok">OK</string>
+    <string name="title_confirm_exit_cancel">Cancel</string>
+    <string name="title_main_employee">Employee</string>
+    <string name="title_main_customer">Customer</string>
+    <string name="title_employee_list">Employee list:</string>
+    <string name="title_employee_name">"Nguyễn Văn A "</string>
+    <string name="title_employee_123">Name: Nguyễn Văn A\nAge: 39 \nID: 123</string>
+    <string name="title_employee_234">Name: Nguyễn Văn B\nAge: 20\nID: 234</string>
+    <string name="title_employee_345">Name: Nguyễn Văn C\nAge: 24\nID: 345</string>
+    <string name="title_employee_456">Name: Nguyễn Văn D\nAge: 37 \nID: 456</string>
+    <string name="title_employee_567">Name: Nguyễn Văn E\nAge: 45\nID: 567</string>
+    <string name="title_employee_678">Name: Nguyễn Văn F\nAge: 29\nID: 678</string>
+    <string name="title_employee_789">Name: Nguyễn Văn G\nAge: 78\nID: 789</string>
+    <string name="title_employee_8910">Name: Nguyễn Văn H \nAge: 64\nID: 8910</string>
+    <string name="title_employee_91011">Name: Nguyễn Văn I\nAge: 24\nID: 91011</string>
+</resources>
